@@ -1,7 +1,7 @@
 {
   "name": "zinkbonbon",
-  "version": "1.1.4",
-    "scripts": {
+  "version": "1.1.5",
+  "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -12,7 +12,8 @@
     "azkathea": "^1.1.5",
     "next": "14.1.3",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "zinkbonbon": "^1.1.4"
   },
   "devDependencies": {
     "@types/node": "^20",
@@ -29,7 +30,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samsudin15/Almirakaya.git"
+    "url": "https://github.com/samsudin15/Almirakaya"
   },
   "author": "sams",
   "license": "ISC",
