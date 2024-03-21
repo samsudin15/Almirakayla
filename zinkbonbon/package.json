@@ -1,6 +1,6 @@
 {
   "name": "zinkbonbon",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -30,12 +30,12 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/samsudin15/Almirakaya"
+    "url": "https://github.com/samsudin15/Almirakayla"
   },
   "author": "sams",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samsudin15/Almirakaya/issues"
+    "url": "https://github.com/samsudin15/Almirakayla/issues"
   },
-  "homepage": "https://github.com/samsudin15/Almirakaya#readme"
+  "homepage": "https://github.com/samsudin15/Almirakayla#readme"
 }
